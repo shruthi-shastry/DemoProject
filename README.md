@@ -1,2 +1,1 @@
-# DemoProject
-this is a Demo project
+# Python Projects
